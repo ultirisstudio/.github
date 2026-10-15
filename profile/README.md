@@ -1,7 +1,5 @@
-<h1 align="center">Ultiris Studio</h1>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ultirisstudio/.github/main/profile/assets/logo.png" alt="Ultiris Studio" width="120" />
+  <img src="https://raw.githubusercontent.com/ultirisstudio/.github/main/profile/assets/logo.png" alt="Ultiris Studio" width="240" />
 </p>
 
 <p align="center">
